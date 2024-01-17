@@ -23,5 +23,5 @@ Además me gusta  divulgar  contenido relacionado en TikTok, YouTube y LinkedIn.
 
 ## Contacto:
 
-[![Email](https://img.shields.io/badge/rodrigozapata968@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:rodrigozapata968@gmail.com)
+[![Email](https://img.shields.io/badge/rodrigozapata968@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=8A2BE2&labelColor=101010)](mailto:rodrigozapata968@gmail.com)
 
