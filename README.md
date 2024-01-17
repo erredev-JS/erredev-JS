@@ -17,7 +17,7 @@ Además me gusta  divulgar  contenido relacionado en TikTok, YouTube y LinkedIn.
 
 ## Redes
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=instagram&logoColor=white&color=8A2BE2&labelColor=101010)](https://www.youtube.com/@erre.3323)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=8A2BE2&labelColor=101010)](https://www.youtube.com/@erre.3323)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=8A2BE2&labelColor=101010)](https://www.linkedin.com/in/rodrigo-alejandro-zapata-nicito-280ab4214/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&color=8A2BE2&labelColor=101010)](https://www.tiktok.com/@erre_dev)
 
