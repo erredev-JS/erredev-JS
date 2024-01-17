@@ -20,3 +20,8 @@ Además me gusta  divulgar  contenido relacionado en TikTok, YouTube y LinkedIn.
 [![GitHub](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=8A2BE2&labelColor=101010)](https://github.com/erredev-JS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=8A2BE2&labelColor=101010)](https://www.linkedin.com/in/rodrigo-alejandro-zapata-nicito-280ab4214/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&color=8A2BE2&labelColor=101010)](https://www.tiktok.com/@erre_dev)
+
+## Contacto:
+
+[![Email](https://img.shields.io/badge/rodrigozapata968@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:rodrigozapata968@gmail.com)
+
