@@ -2,9 +2,11 @@
 ### Estudiante universitario y Desarollador Front-End 💻
 
 
-Soy un estudiante autodidacta hace más de dos años, actualmente cursando la Tecnicatura Universitaria en Programación en la UTN - Mendoza.
+Soy Tecnico universitario en programación de la UTN Mendoza.
 
-Además me gusta  divulgar  contenido relacionado en TikTok, YouTube y LinkedIn.
+Con mas de 3 años estudiando desarollo web y haciendo proyectos con el  100% de mi corazón.
+
+Además me gusta  divulgar  contenido relacionado en TikTok, Instagram, YouTube y LinkedIn.
 
 ##  Tecnologías
 
