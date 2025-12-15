@@ -23,6 +23,7 @@
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erredev-JS&layout=compact&theme=ayu_mirage&hide_border=true" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erredev-JS&theme=ayu_mirage" />
 
       
 <br>
