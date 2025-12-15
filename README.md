@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://imgur.com/gallery/coloring-que-fiz-de-uma-p-gina-de-vinland-saga-OLLRKhC#aXY8CtR" />
+  <img align="center" height="150" src="https://imgur.com/gallery/gengar-dance-yRXumoH#Ba41msM" />
 </div>
 
 <div align="center">
@@ -41,10 +41,8 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+
   
 </div>
 
@@ -99,7 +97,7 @@
 <br>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=kamillyvm&style=flat-square&color=755b25" /></p> 
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=erredev-JS&style=flat-square&color=755b25" /></p> 
 </div>
 
 <br>
