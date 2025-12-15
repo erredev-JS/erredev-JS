@@ -3,7 +3,8 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="[https://imgur.com/gallery/gengar-dance-yRXumoH#Ba41msM](https://www.icons101.com/icons/79/Pokemon_by_HEKTakun/128/094%20Gengar.png)"/>
+<img align="center" height="150" src="https://www.icons101.com/icons/79/Pokemon_by_HEKTakun/128/094%20Gengar.png"/>
+
 </div>
 
 <div align="center">
