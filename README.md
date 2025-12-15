@@ -84,6 +84,7 @@
 ##
 
 <br>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=erredev-JS&theme=ayu_mirage&utcOffset=-3" />
 
 <div align="center">
   <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=erredev-JS&style=flat-square&color=755b25" /></p> 
