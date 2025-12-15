@@ -1,29 +1,109 @@
-# ![https://github.com/erredev-JS](https://github.com/erredev-JS/erredev-JS/blob/main/Logo%2052px.png) Hola, mi nombre es Rodrigo Zapata (erredev)
-### Estudiante universitario y Desarollador Front-End 💻
+<br>
+<br>
+<br>
 
+<div align="center">
+  <img align="center" height="150" src="https://imgur.com/aXIQLp8.png" />
+</div>
 
-Soy Tecnico universitario en programación de la UTN Mendoza.
+<div align="center">
+  
+  <b>`プ ロ グ ラ マ`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Rodrigo Zapata</b>
+  </samp>
+</div>
 
-Con mas de 3 años estudiando desarollo web y haciendo proyectos con el  100% de mi corazón.
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=I+am+from+Argentina;I'm+a+FullstackDev;Be+welcome!" alt="Typing SVG"/>
+</div>
 
-Además me gusta  divulgar  contenido relacionado en TikTok, Instagram, YouTube y LinkedIn.
+<br>
 
-##  Tecnologías
+<div align="center">
+  <img src="https://img.shields.io/badge/kami_♡-black" />
+</div>
+      
+<br>
+<br>
+      
+<div align="center">
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erredev-JS&theme=ayu_mirage"/>
+</div>
 
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&color=8A2BE2&labelColor=101010)](https://www.python.org/)
-[![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=8A2BE2&labelColor=101010)](https://www.java.com/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=8A2BE2&labelColor=101010)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=8A2BE2&labelColor=101010)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=8A2BE2&labelColor=101010)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=8A2BE2&labelColor=101010)](https://www.mysql.com/)
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  
+</div>
 
-## Redes
+<br>
+<br>
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=8A2BE2&labelColor=101010)](https://www.youtube.com/@erre.3323)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=8A2BE2&labelColor=101010)](https://www.linkedin.com/in/rodrigo-alejandro-zapata-nicito-280ab4214/)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&color=8A2BE2&labelColor=101010)](https://www.tiktok.com/@erre_dev)
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+<br>
 
-## Contacto:
+##
 
-[![Email](https://img.shields.io/badge/rodrigozapata968@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=8A2BE2&labelColor=101010)](mailto:rodrigozapata968@gmail.com)
+<br>
 
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+<!--
+  [![Gmail](https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-755b25?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamyzmedino/?next=%2F)
+  [![Discord](https://img.shields.io/badge/Discord-755b25?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/8kc8HqXVw2)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
+</div>
+
+<div align="center">
+  <p align="center">
+      <samp>
+        ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
+        <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
+        <a href="https://bykamillyvm.carrd.co/">carrd.co</a> ⊹
+        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
+      </samp>
+  </p>
+</div>
+<br>
+  -->
+
+</details>
+
+##
+
+<br>
+
+<div align="center">
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=kamillyvm&style=flat-square&color=755b25" /></p> 
+</div>
+
+<br>
+<br>
+<br>
