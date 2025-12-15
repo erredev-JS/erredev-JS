@@ -22,6 +22,7 @@
 
 <br>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erredev-JS&layout=compact&theme=ayu_mirage&hide_border=true" />
 
       
 <br>
