@@ -22,8 +22,7 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erredev-JS&layout=compact&theme=ayu_mirage&hide_border=true" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erredev-JS&theme=ayu_mirage" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=erredev-JS&theme=ayu_mirage&utcOffset=-3" />
 
       
 <br>
@@ -84,7 +83,6 @@
 ##
 
 <br>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=erredev-JS&theme=ayu_mirage&utcOffset=-3" />
 
 <div align="center">
   <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=erredev-JS&style=flat-square&color=755b25" /></p> 
